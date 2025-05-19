@@ -27,7 +27,7 @@ const questions = [
         ]
     },
     {
-        question: "What age did prophet Muhammed (S.A.W) Die?",
+        question: "What age did prophet Muhammed (S.A.W) die?",
         answers: [
             { text: "45", correct: false},
             { text: "63", correct: true},
