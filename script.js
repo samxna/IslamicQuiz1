@@ -39,9 +39,9 @@ const questions = [
         question: "Which is the smallest surah of the Quran?",
         answers: [
             { text: "Al-Asr", correct: false},
-            { text: "Al-Ikhlaas", correct: true},
+            { text: "Al-Ikhlaas", correct: false},
             { text: "An-Nasr", correct: false},
-            { text: "Al-Kawthar", correct: false},
+            { text: "Al-Kawthar", correct: true},
         ]
     }   
 ];
